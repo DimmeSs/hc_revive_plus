@@ -2,7 +2,9 @@ HcRevive+
 
 Umierasz  - > Ciało opada na ziemie i leżysz - > Masz timer XXX sekund( pasek bossa zmniejszający się ) ( wyświetlone kordy na górze pod paskiem) możliwość pisania na czacie ale nie możesz się ruszać ani obracać
 
-- Jeżeli umrzesz to zmieniasz się w ducha ( tryb adventure ,transparent postaci jak u ducha, moby ciebie nie widzą[jak na creative]) jeżeli wejdziesz do void to umrzesz na zawsze
+- Jeżeli umrzesz to zmieniasz się w ducha ( tryb adventure ,transparent postaci jak u ducha, moby ciebie nie widzą[jak na creative]) jeżeli wejdziesz do void to umrzesz na zawsze, a 
+- W miejscu gdzie gracz umarł, pojawia się mały płomyk / dusza 
+[ soul sand soul ] który informuje gdzie umarła dana osoba żeby móc ja później odrodzić ( dzięki temu kompatybilny z gravestone MOD) [!DODATEK!random kolor soul niebieska/niebieska/zielonaitp.]
 
 - Jeżeli chcesz się odrodzić, przyjaciel musi na twoim trupie użyć Revive Potion [ enchanted strength potion ] ( odpowiednia receptura jest żeby ja stworzyć ) i musisz być obok ciała inaczej ( "dusza nie ma zamiaru wrócić do ciała" )
 
